@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[inn:home|Door43 (inn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-inn|d43-inn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-inn/archive/master.zip|d43-inn.zip]]
+
+**Recent Changes**
+{{changes>ns = inn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/inn|Ethnologue data]]
+
